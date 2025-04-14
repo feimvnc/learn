@@ -1,10 +1,10 @@
 /*
-Given an array, find the max sum of subarray.
-Input: [2,-3,4,-1,2,3,-7,-2]
+Given an array, find the max difference.
+Input: [102,99,103,102,104,107,100,98]
 Output: 8
-Explanation: [4,-1,2,3] = 8
+Explanation: [99,107] = 8
 
-array - subarray - sum -> prefix sum 
+minimun_point - max_point -> max profit
 */
 
 
